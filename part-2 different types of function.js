@@ -20,7 +20,7 @@ function add3(x,y){
 }
 add3(num1,num2)
 
-
+// with i/p value and  return type
 function add4(x,y){
     return x+y;
 }
